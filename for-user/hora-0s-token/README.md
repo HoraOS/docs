@@ -16,6 +16,8 @@ Detail information: [https://token.horaos.com](https://token.horaos.com)
 
 {% page-ref page="used-for.md" %}
 
+{% page-ref page="tool.md" %}
+
 
 
 
