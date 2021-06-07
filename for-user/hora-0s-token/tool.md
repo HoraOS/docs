@@ -6,5 +6,9 @@
 
 {% embed url="https://poocoin.app/tokens/0xa6fd7b5c9eee30309b00b65436a284e2053251e5" %}
 
+{% embed url="https://dex.guru/token/0xa6fd7b5c9eee30309b00b65436a284e2053251e5-bsc" %}
+
+
+
 
 
