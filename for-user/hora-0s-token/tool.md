@@ -1,5 +1,9 @@
 # Tool
 
+{% embed url="https://charts.bogged.finance/?token=0xA6Fd7B5C9eee30309B00B65436a284e2053251e5" %}
+
+
+
 {% embed url="https://exchange.pancakeswap.finance/\#/swap?inputCurrency=0xa6fd7b5c9eee30309b00b65436a284e2053251e5" %}
 
 {% embed url="https://www.dextools.io/app/pancakeswap/pair-explorer/0xdc422f7b9bfc05d9e232131eab0bab488e4c1b12" %}
