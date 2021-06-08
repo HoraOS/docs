@@ -2,7 +2,7 @@
 
 {% embed url="https://charts.bogged.finance/?token=0xA6Fd7B5C9eee30309B00B65436a284e2053251e5" %}
 
-
+{% embed url="https://explorer.bitquery.io/bsc/token/0xa6fd7b5c9eee30309b00b65436a284e2053251e5/senders" %}
 
 {% embed url="https://exchange.pancakeswap.finance/\#/swap?inputCurrency=0xa6fd7b5c9eee30309b00b65436a284e2053251e5" %}
 
