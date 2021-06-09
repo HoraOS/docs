@@ -81,6 +81,7 @@
 
 * [Events](for-user/events.md)
 * [Hora OS Token](for-user/hora-0s-token/README.md)
+  * [Token Information](for-user/hora-0s-token/token-information.md)
   * [Used for?](for-user/hora-0s-token/used-for.md)
   * [Bep20 Wallet](for-user/hora-0s-token/bep20-wallet.md)
   * [Setting Smartchain](for-user/hora-0s-token/seting-smartchain.md)
