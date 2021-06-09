@@ -103,4 +103,5 @@
 * [MarketersMEDIA](media-and-pr/marketersmedia.md)
 * [VnExpress](media-and-pr/vnexpress.md)
 * [VietnamFinance](media-and-pr/vietnamfinance.md)
+* [Coinmarketcal](media-and-pr/coinmarketcal.md)
 
