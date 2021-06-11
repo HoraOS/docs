@@ -62,6 +62,19 @@
   * [Collections](for-validator/nfts-certification/collections.md)
   * [Vote](for-validator/nfts-certification/vote.md)
 
+## For User
+
+* [Events](for-user/events.md)
+* [Hora OS Token](for-user/hora-0s-token/README.md)
+  * [Token Information](for-user/hora-0s-token/token-information.md)
+  * [Used for?](for-user/hora-0s-token/used-for.md)
+  * [Bep20 Wallet](for-user/hora-0s-token/bep20-wallet.md)
+  * [Setting Smartchain](for-user/hora-0s-token/seting-smartchain.md)
+  * [Tool](for-user/hora-0s-token/tool.md)
+* [Crowdfunding](for-user/crowdfunding.md)
+* [DX Space Token](for-user/dx-space-token.md)
+* [USDX Stablecoin](for-user/usdx-stablecoin.md)
+
 ## For Developer
 
 * [Tools](for-developer/tools/README.md)
@@ -76,19 +89,6 @@
 * [ID Services](products-and-services/id-services.md)
 * [DxSpace Meet](products-and-services/dxspace-meet.md)
 * [DxSpace Academy](products-and-services/dxspace-academy.md)
-
-## For User
-
-* [Events](for-user/events.md)
-* [Hora OS Token](for-user/hora-0s-token/README.md)
-  * [Token Information](for-user/hora-0s-token/token-information.md)
-  * [Used for?](for-user/hora-0s-token/used-for.md)
-  * [Bep20 Wallet](for-user/hora-0s-token/bep20-wallet.md)
-  * [Setting Smartchain](for-user/hora-0s-token/seting-smartchain.md)
-  * [Tool](for-user/hora-0s-token/tool.md)
-* [Crowdfunding](for-user/crowdfunding.md)
-* [DX Space Token](for-user/dx-space-token.md)
-* [USDX Stablecoin](for-user/usdx-stablecoin.md)
 
 ## Backed
 
