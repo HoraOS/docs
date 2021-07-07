@@ -71,6 +71,7 @@
   * [Bep20 Wallet](for-user/hora-0s-token/bep20-wallet.md)
   * [Setting Smartchain](for-user/hora-0s-token/seting-smartchain.md)
   * [Tool](for-user/hora-0s-token/tool.md)
+  * [Claim Aridrop](for-user/hora-0s-token/claim-aridrop.md)
 * [Crowdfunding](for-user/crowdfunding.md)
 * [DX Space Token](for-user/dx-space-token.md)
 * [USDX Stablecoin](for-user/usdx-stablecoin.md)
