@@ -9,3 +9,7 @@
 
 ![](../.gitbook/assets/crowdfunding-timeline-28.png)
 
+\[New update\] 
+
+IDO program will not be performed after the end of Presale.
+
