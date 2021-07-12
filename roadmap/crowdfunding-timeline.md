@@ -11,5 +11,5 @@
 
 \[New update\] 
 
-IDO program will not be performed after the end of Presale.
+  ![&#x1F308;](https://web.telegram.org/z/img-apple-64/1f308.png)IDO program will not be performed after the end of Presale.
 
