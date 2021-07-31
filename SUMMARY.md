@@ -121,4 +121,7 @@
 * [2  .What is DeFi?](2-what-is-defi.md)
 * [3. What is the Difference between DeFi and CeFi?](3-what-is-the-difference-between-defi-and-cefi.md)
 * [4 .Advantages of DeFi](4-advantages-of-defi.md)
+* [5. Key components of DeFi?](5-key-components-of-defi.md)
+* [6. Dapps \(Decentralized application\)](6-dapps-decentralized-application.md)
+* [7 .Main features of Dapps](7-main-features-of-dapps.md)
 
