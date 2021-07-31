@@ -123,6 +123,8 @@
     * [5. Key components of DeFi?](defi/2.-cefi-and-defi/5-key-components-of-defi.md)
     * [6. Dapps \(Decentralized application\)](defi/2.-cefi-and-defi/6-dapps-decentralized-application.md)
     * [7 .Main features of Dapps](defi/2.-cefi-and-defi/7-main-features-of-dapps.md)
-  * [3. DEFI BANK](defi/3.defi-bank.md)
-* [1 .Current banking services \(Traditional banking \)](1-current-banking-services-traditional-banking.md)
+  * [3. DEFI BANK](defi/3.defi-bank/README.md)
+    * [1 .Current banking services \(Traditional banking \)](defi/3.defi-bank/1-current-banking-services-traditional-banking.md)
+* [1. What does Defi Bank look like?](1-what-does-defi-bank-look-like.md)
+* [2. Defi Bank](2-defi-bank.md)
 
