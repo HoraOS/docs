@@ -119,4 +119,5 @@
   * [3. DEFI BANK](defi/3.defi-bank.md)
 * [1 .What is Cefi?](1.what-is-cefi.md)
 * [2  .What is DeFi?](2-what-is-defi.md)
+* [3. What is the Difference between DeFi and CeFi?](3-what-is-the-difference-between-defi-and-cefi.md)
 
