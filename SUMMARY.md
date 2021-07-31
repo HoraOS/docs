@@ -129,4 +129,5 @@
       * [1. What does Defi Bank look like?](defi/3.defi-bank/2-defi-bank/1-what-does-defi-bank-look-like.md)
       * [2. What are the main features of Defi Bank?](defi/3.defi-bank/2-defi-bank/2-what-are-the-main-features-of-defi-bank.md)
     * [3.The advantages of Defi](defi/3.defi-bank/3.the-advantages-of-defi.md)
+* [Hora chain's testnet](hora-chains-testnet.md)
 
