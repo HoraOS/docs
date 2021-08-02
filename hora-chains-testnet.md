@@ -1,4 +1,4 @@
-# Hora chain's testnet
+# HoraChain Testnet
 
 
 
