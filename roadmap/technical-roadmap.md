@@ -4,7 +4,7 @@ description: Technical Roadmap
 
 # Technical Roadmap
 
-* [ ] 07/2021: HoraChain Testnet v1
+* [ ] 31/07/2021: HoraChain Testnet v1
 * [ ] 08/2021: HoraChain Testnet v2
 * [ ] 10/2021: HoraChain Testnet v3
 * [ ] 12/2021: Release Mainnet v1
