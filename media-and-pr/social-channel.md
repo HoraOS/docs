@@ -2,7 +2,7 @@
 description: Connect us!
 ---
 
-# Social Chanel
+# Social Channel
 
 | Title | Details |
 | :--- | :--- |

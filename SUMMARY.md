@@ -101,7 +101,7 @@
 
 ## MEDIA&PR
 
-* [Social Chanel](media-and-pr/social-chanel.md)
+* [Social Channel](media-and-pr/social-channel.md)
 * [MarketersMEDIA](media-and-pr/marketersmedia.md)
 * [VnExpress](media-and-pr/vnexpress.md)
 * [VietnamFinance](media-and-pr/vietnamfinance.md)
