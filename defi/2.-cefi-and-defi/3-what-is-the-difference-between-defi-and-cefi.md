@@ -8,12 +8,11 @@
 
 Specifically:
 
-• Government or banking \(CeFi\) will be replaced by decentralized blockchains.
+• Government or banking (CeFi) will be replaced by decentralized blockchains.
 
 • CeFi's assets will be replaced by tokens located in the Blockchain ecosystem. They are decentralized.
 
-• DeFi's mission is to provide users with access to financial services anywhere, whenever as long as they have the Internet. DeFi's openness is shown here.  
-  
-  
+• DeFi's mission is to provide users with access to financial services anywhere, whenever as long as they have the Internet. DeFi's openness is shown here.\
+****\
+****\
 ****
-

@@ -5,11 +5,11 @@
 * [ ] 01/07/2021: IDO Round 1
 * [ ] 20/07/2021: IDO Round 2
 * [ ] 02/08/2021: IDO Round 3
-* [ ] Listing 
+* [ ] Listing\
+
 
 ![](../.gitbook/assets/crowdfunding-timeline-28.png)
 
-\[New update\] 
+\[New update]&#x20;
 
-  ![&#x1F308;](https://web.telegram.org/z/img-apple-64/1f308.png)IDO program will not be performed after the end of Presale.
-
+&#x20; ![🌈](https://web.telegram.org/z/img-apple-64/1f308.png)IDO program will not be performed after the end of Presale.

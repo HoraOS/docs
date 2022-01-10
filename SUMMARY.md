@@ -50,7 +50,7 @@
 * [Tokenomics](tokenomics.md)
 * [Use Case](use-case/README.md)
   * [Storage Decentralized](use-case/storage-decentralized.md)
-  * [Decentralize Finance \(Defi\)](use-case/decentralize-finance-defi.md)
+  * [Decentralize Finance (Defi)](use-case/decentralize-finance-defi.md)
 * [Version](version.md)
 
 ## For Validator
@@ -93,13 +93,11 @@
 
 ## Backed
 
-* [UFIN](backed/ufin.md)
 * [DXSPACE](backed/dxspace.md)
 * [DXSPACE Ambassador](backed/feature.md)
-* [DTS Group](backed/id-dts.md)
 * [DTS Alliance](backed/dts-allinance.md)
 
-## MEDIA&PR
+## MEDIA\&PR
 
 * [Social Channel](media-and-pr/social-channel.md)
 * [MarketersMEDIA](media-and-pr/marketersmedia.md)
@@ -111,7 +109,7 @@
 
 * [TechRate](audits/techrate.md)
 
----
+***
 
 * [DEFI](defi/README.md)
   * [1.Centralize -Decentralize](defi/1.centralize-decentralize.md)
@@ -121,10 +119,10 @@
     * [3. What is the Difference between DeFi and CeFi?](defi/2.-cefi-and-defi/3-what-is-the-difference-between-defi-and-cefi.md)
     * [4 .Advantages of DeFi](defi/2.-cefi-and-defi/4-advantages-of-defi.md)
     * [5. Key components of DeFi?](defi/2.-cefi-and-defi/5-key-components-of-defi.md)
-    * [6. Dapps \(Decentralized application\)](defi/2.-cefi-and-defi/6-dapps-decentralized-application.md)
+    * [6. Dapps (Decentralized application)](defi/2.-cefi-and-defi/6-dapps-decentralized-application.md)
     * [7 .Main features of Dapps](defi/2.-cefi-and-defi/7-main-features-of-dapps.md)
   * [3. DEFI BANK](defi/3.defi-bank/README.md)
-    * [1 .Current banking services \(Traditional banking \)](defi/3.defi-bank/1-current-banking-services-traditional-banking.md)
+    * [1 .Current banking services (Traditional banking )](defi/3.defi-bank/1-current-banking-services-traditional-banking.md)
     * [2. Defi Bank](defi/3.defi-bank/2-defi-bank/README.md)
       * [1. What does Defi Bank look like?](defi/3.defi-bank/2-defi-bank/1-what-does-defi-bank-look-like.md)
       * [2. What are the main features of Defi Bank?](defi/3.defi-bank/2-defi-bank/2-what-are-the-main-features-of-defi-bank.md)
@@ -134,4 +132,3 @@
 ## 🌂DISCLAIMER
 
 * [Untitled](disclaimer/untitled.md)
-
